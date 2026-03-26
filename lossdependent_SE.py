@@ -1,6 +1,5 @@
 from numba import njit
 from math import sqrt, erf, exp, atan, pi
-from numpy.polynomial.hermite import hermgauss
 import numpy as np
 
 
